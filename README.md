@@ -34,22 +34,6 @@ src/test/java
 
 ---
 
-##  Como executar o projeto
-
-1. Clonar o repositório:
-
-git clone https://github.com/seu-usuario/seu-repo.git
-
-2. Entrar na pasta:
-
-cd seu-repo
-
-3. Executar os testes:
-
-mvn test
-
----
-
 ##  Aprendizados
 
 - Uso de WebDriverWait para sincronização
