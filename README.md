@@ -43,6 +43,6 @@ src/test/java
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Gabriel Ferreira Machado
