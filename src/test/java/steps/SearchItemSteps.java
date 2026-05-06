@@ -9,11 +9,11 @@ import io.cucumber.java.pt.Quando;
 
 import static steps.Hooks.driver;
 
-public class BuscaItemSteps {
+public class SearchItemSteps {
     LoginPage loginPage;
     BuyInteractions interactions;
 
-    public BuscaItemSteps(){
+    public SearchItemSteps(){
         loginPage = new LoginPage(driver);
         interactions = new BuyInteractions(loginPage);
     }
