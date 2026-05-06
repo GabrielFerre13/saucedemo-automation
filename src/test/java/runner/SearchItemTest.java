@@ -6,11 +6,11 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        features = "src/test/resources/features/cadastro.feature",
+        features = "src/test/resources/features/purchase.feature",
         glue = "steps"
 
 )
 
 
-public class BuscaItemTest {
+public class SearchItemTest {
 }
